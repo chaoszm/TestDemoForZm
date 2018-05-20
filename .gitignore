@@ -1,0 +1,34 @@
+# Created by IDE
+.idea/
+*.iml
+.DS_Store
+.vscode
+*.sw*
+
+# Created by Builder
+examples/build
+web-entry
+test/build
+weex_tmp
+coverage
+dist
+*.js.gz
+
+# Node
+logs
+*.log
+npm-debug.log*
+node_modules
+.npm
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+*.xcworkspace/
+Products/
+DerivedData/
+build/
+AutoBuild/
+Pods/
